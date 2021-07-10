@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+
+shop:
+  url: jdbc:mysql://localhost:3104/xm_jointly?characterEncoding=utf8
+  username: louzai
+  password: 123456
